@@ -1,4 +1,4 @@
-# Diffusion of the Fisher Information in Structured Deep RNNs
+# Fisher Information Diffusion in Deep Networks Reveals Recurrent-Feedforward Architecture with Selective Feedback
 
 This repository accompanies the NeurIPS 2025 submission:
 
