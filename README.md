@@ -50,7 +50,7 @@ pip install torch torchvision torchaudio
 | --------------------- | ------------------------------------------------------------------------------------ |
 | `NN_analytic_opt.py`  | Optimization routines for structured connectivity using DE and gradient-free methods |
 | `NN_analytic_test.py` | Analytical mean-field calculations of Fisher information and matrix eigenvalues      |
-| `NN_sim_test.py`      | Torch-based simulation of recurrent neural dynamics, empirical Fisher estimation     |
+| `NN_simulation.py`      | Torch-based simulation of recurrent neural dynamics, empirical Fisher estimation     |
 
 ---
 
