@@ -105,8 +105,8 @@ The `simulation_multiple_stimulus_multiPopu_torch` method evaluates how well the
 @article{qin2025diffusion,
   title={Diffusion of the Fisher Information in a Large Structured Deep RNN},
   author={Qin, Haodong and Sharpee, Tatyana},
-  journal={NeurIPS},
-  year={2025}
+  journal={ICLR},
+  year={2026}
 }
 ```
 
